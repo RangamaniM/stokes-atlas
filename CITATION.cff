@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite geodesicsWKB by Hewei Frederic Jia and Mukund Rangamani."
+title: "Stokes atlas accompanying geodesicsWKB"
+type: software
+authors:
+  - family-names: Jia
+    given-names: Hewei Frederic
+  - family-names: Rangamani
+    given-names: Mukund
